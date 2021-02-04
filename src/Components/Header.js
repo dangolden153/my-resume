@@ -1,7 +1,9 @@
-import React from "react";
+import React,{useState} from "react";
 import TypeWriter from "react-typewriter";
 
 const Header = ({ data }) => {
+ 
+
   if (data) {
     var name = data.name;
     var occupation = data.occupation;
@@ -21,9 +23,11 @@ const Header = ({ data }) => {
   return (
     <header id="home">
       <nav id="nav-wrap">
-        <a className="mobile-btn" href="#nav-wrap" title="Show navigation">
+      
+        <a className= "mobile-btn " href="#nav-wrap" title="Show navigation">
           Show navigation
         </a>
+       
         <a className="mobile-btn" href="#home" title="Hide navigation">
           Hide navigation
         </a>
