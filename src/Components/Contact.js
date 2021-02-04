@@ -127,7 +127,7 @@ const Contact = ({ data }) => {
               <br />
               <br />
               {street} <br />
-              {city}, {state} {zip}
+              {city} {state} {zip}
               <br />
               <span>{phone}</span>
             </p>

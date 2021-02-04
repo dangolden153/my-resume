@@ -18,6 +18,7 @@ const App = () => {
       .then((res) => res.json())
       .then((data) => {
         setResumeData(data);
+        console.log(data)
       });
   }, []);
 
