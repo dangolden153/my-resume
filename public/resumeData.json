@@ -139,9 +139,33 @@
         "category": "",
         "image": "full-stack.jpg",
         "url": "http://danmern-app.herokuapp.com/"
+      },
+      {
+        "title": " An E-commerce App (React JS)",
+        "category": "",
+        "image": "eCommerce.png",
+        "url": "https://dan-shopapp.herokuapp.com/"
+      },
+      {
+        "title": " Netflix Clone (React JS)",
+        "category": "",
+        "image": "netflix.jpg",
+        "url": "https://dan-netflix.herokuapp.com/"
+      },
+      
+      {
+        "title": " Slack-chat Clone (React JS)",
+        "category": "",
+        "image": "slack.jpg",
+        "url": "https://danchatapp.herokuapp.com/"
+      },
+
+      {
+        "title": " Instagram Clone (React JS)",
+        "category": "",
+        "image": "instagram.jpg",
+        "url": "http://daninstagram-clone.herokuapp.com"
       }
-      
-      
     ]
   },
   "testimonials": {
